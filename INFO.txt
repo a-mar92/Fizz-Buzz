@@ -1,0 +1,5 @@
+This is FizzBuzz program. 
+prosta gra - zabawa. 
+Przy liczbie podzielnej(bez reszty) przez 3 wołam Fizz,
+Przy liczbie podzielnej(bez reszty) przez 5 wołam Buzz,
+Przy liczbie podzielnej(bez reszty) przez 15 wołam FizzBuzz   
